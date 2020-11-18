@@ -5,7 +5,7 @@
         <key>ConsentText</key>
         <dict>
             <key>default</key>
-            <string>Created with webClip</string>
+            <string>سوپاس بۆ دابەزاندنی بەرنامەکە</string>
         </dict>
         <key>PayloadContent</key>
         <array>
