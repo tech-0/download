@@ -19,7 +19,7 @@
                 <key>Label</key>
                 <string>CHARA</string>
                 <key>PayloadDescription</key>
-                <string>Ø¯Ø±ÙØ³ØªÚ©Ø±Ø¯ÙÛ : Ø§Ø¨Ø±Ø§Ú¾ÛÙ ÙØ§Ø¯Ø±</string>
+                <string>دروستکردنی : ابراھیم قادر مصطفی</string>
                 <key>PayloadDisplayName</key>
                 <string>CHARA</string>
                 <key>PayloadIdentifier</key>
@@ -39,7 +39,7 @@
             </dict>
         </array>
         <key>PayloadDescription</key>
-        <string>Ø¯Ø±ÙØ³ØªÚ©Ø±Ø¯ÙÛ : Ø§Ø¨Ø±Ø§Ú¾ÛÙ ÙØ§Ø¯Ø±</string>
+        <string> دروستکردنی : ابراھیم قادر مصطفی </string>
         <key>PayloadDisplayName</key>
         <string>CHARA</string>
         <key>PayloadIdentifier</key>
