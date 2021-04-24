@@ -1,0 +1,108 @@
+0	*H÷
+ 010	+�0	*H÷
+ $<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+        <dict>
+            <key>Name</key>
+            <string> راگرتنی رێکلام</string>
+            <key>PayloadDescription</key>
+            <string>لەرێگای ئەم سێرڤەرە دەتوانی رێکلام لەناو بەرنامەکان رابگریت . دروستکردنی لەلایەن (ابراھیم قادرمصطفی بالەکی ) سوپاس بۆ بەکارھێنانی سێرڤەرەکە .</string>
+            <key>PayloadDisplayName</key>
+            <string>راگرتنی رێکلام</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.dnsSettings.managed.61487E46-E4F4-417A-B351-5447FE238D89</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>767A11FC-31D2-4950-815E-B37B15448CA2</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>دروستکردنی</key>
+                <string>ابراھیم قادر مصطفی بالەکی</string>
+            </dict>
+        </dict>
+    </array>
+	<key>PayloadDescription</key>
+	<string> لەرێگای ئەم سێرڤەرە دەتوانی رێکلام لەناو بەرنامەکان رابگریت . دروستکردنی لەلایەن (ابراھیم قادرمصطفی بالەکی ) سوپاس بۆ بەکارھێنانی سێرڤەرەکە .</string>
+	<key>PayloadDisplayName</key>
+	<string> راگرتنی رێکلام</string>
+	<key>PayloadIdentifier</key>
+    <string>E3E3CB8B-C59E-486B-A713-D765328DB2A2</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>F2609BEA-93D6-4966-8487-33713DBCB644</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
+������ 	Ü00ì z©¨Â!0
+	*H÷
+�0b10	UUS10U
+
+Apple Inc.1&0$UApple Certification Authority10U
+Apple Root CA0
+120201221215Z
+270201221215Z0y1-0+U$Developer ID Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUS0"0
+	*H÷
+��0
+�vO[Aî¥#+£_×s?À5°
+?$§?ëO¯´ÐÈ>åm³èG¿×	äÿV)ç¹5£
+Í´Àáâ`ôÊì)xEii`k_ü#æ:Â"³1Oºò¶4YBî°©¶³x.3E
+Eo»Z[:çØ×2mû6äl«Äp&ªDÑñ¸Æ{H÷Xº#Å9~Ê]Ã2_àR@ê¾¬d[ÉåÊjDl>Ä°&ì{¯^ j=G©X1? v(m°ÂNi&ËÖÐÉNñVtÐÙKfx¢«¬§âÒLYÉ�£¦0£0UWí¢ÏÜ|¡àü¾-,òãT0Uÿ0ÿ0U#0+ÐiGv	þôk.@¦÷GM^0.U'0%0# ! http://crl.apple.com/root.crl0Uÿ0
+*H÷cd�0
+	*H÷
+��B9tk¡ÜÆ¤7*³
+D¼,¼Y¸¬aû2¹Ô¿;ÁP9jDt¢ì[påªÝKl#q-_ÑÅ¾îpeã-¨ÍýxXI(3î�z´v¬¶µ»Oß¨ÈJVg/Â>¶³Ä:ðwmtÄ.#Qî¥o`ô¥H§Â»ZâFE~äõ'· "rorÚÆPuÅ=%]£�é6H9³;ê.`ôxÎô
+S>¢úOØ®2¼VMéxà¬BºzF¢ÎèÑXö®VÄ,*E¯ÙK©4¬ÇaUDÉ'sîåNõp0Ð0¸ W¿rì ]20
+	*H÷
+�0y1-0+U$Developer ID Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUS0
+190411150110Z
+240411150110Z0«10
+	&ò,d
+TC3Q7MAJXF1H0FU?Developer ID Application: Adguard Software Limited (TC3Q7MAJXF)10U
+TC3Q7MAJXF1!0U
+Adguard Software Limited10	UCY0"0
+	*H÷
+��0
+�ÁÖG=j!»ÌgZáêèK0Ly	ñâÃµE¼Oª`]Ûññ�<ÕyÏÕ³¿Èù�í
+ZsY´d¸/Òq]Ê§2¬$=h]f76;³¢È#Ù©ú	j»Å;x^Ð{åºª$õÎ9.ÖÑ	27å/j¥)0Y0ÝØ:Î« Z$øT-B.àV}?nQlYÀ]s¼Fc\w½ÍÏÎÇ×RV¬¿9¶ Õg�ÿO·GH­þÉ5Ë¥Õ>p
+ï§â°mþþç¬>u?E3ËÓÒ?<9Ã¯~ Ò%øi�£'0#0Uÿ0�0U#0Wí¢ÏÜ|¡àü¾-,òãT0@+40200+0$http://ocsp.apple.com/ocsp03-devid080U 00	*H÷cd0ý05+)http://www.apple.com/certificateauthority0Ã+0¶³Reliance on this certificate by any party assumes acceptance of the then applicable standard terms and conditions of use, certificate policy and certification practice statements.0U%ÿ0
++0Uaáµ{:ÎÌÖhÍ'ñ¸Ë0Uÿ0
+*H÷cd!20190411000000Z0
+*H÷cd
+ÿ�0
+*H÷cdÿ�0
+	*H÷
+��íáó©È&óCÑIÐR}ypø¤:QÌ®¹K}ÿp
+9Õp£¾¿Õ!¨ÂM¬ðvízEä¯ðç¦Âdúá_
+Ä¼ÐoIÛ¯àÔ´í¨ãÓ/±(l¢º¾m#%°ÈYT¡= ìTÞ3³ëiÅù¾$}Td0d}ÿvnr(Eå`íÖûc­ÕÏ8i~[<0HFHVº³sX<·ÄøÁÚãÙÄ #Åü3WDgØ}Î¨Ô¿ÏPkªæ
+ZÎl^2µ,kÓÙRX{ez[<ÔêZT»ÿ+{È^qDÎ0{1$0 00y1-0+U$Developer ID Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUSW¿rì ]20	+� s0	*H÷
+	1	*H÷
+0#	*H÷
+	1?[ýWeq!äòNÆË$º³0	+7100y1-0+U$Developer ID Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUSW¿rì ]20*H÷
+	1 0y1-0+U$Developer ID Certification Authority1&0$UApple Certification Authority10U
+
+Apple Inc.10	UUSW¿rì ]20
+	*H÷
+��a\ë>,T%`Ö¸õ9#N|ä°2ÃÝ
+ Ñ6xJÕç´£d^p¿¬ªUÖ¶ÞZÛ½wÙW¡.Ãe¾6µØ¦4ù·{Îlw:Rº&ÎÞw)ô4hCLn�(	 >ã#jÑ
+AÉ óû2þ@V;§£ëø Ëj%ö7TDtTsüaqÆ	cæý;~äæ}0ù4Ñl*$Ï´ç7f`ùO	?¶amKV8Õhñßáb//`i9z-î&yÐeÝµÁÃª½¤¯õñ_ß³þZ8%ß J/C8­Æ;×üÀ6÷áäÀ°´������
