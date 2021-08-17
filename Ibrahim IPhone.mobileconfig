@@ -1,12 +1,11 @@
-
- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
     <dict>
         <key>ConsentText</key>
         <dict>
             <key>default</key>
-            <string>دروستکردنی ابراھیم قادر مصطفی</string>
+            <string>Created with webClip</string>
         </dict>
         <key>PayloadContent</key>
         <array>
@@ -20,9 +19,9 @@
                 <key>Label</key>
                 <string>IBRAHIM IPhone</string>
                 <key>PayloadDescription</key>
-                <string> دروستکردنی : ابراھیم قادر مصطفی </string>
+                <string>Supas bo da</string>
                 <key>PayloadDisplayName</key>
-                <string>Ibrahim IPhone </string>
+                <string>Supas bo</string>
                 <key>PayloadIdentifier</key>
                 <string>f7533bad-e225-4cb7-a94b-a8c5907c5f05</string>
                 <key>PayloadOrganization</key>
@@ -40,9 +39,9 @@
             </dict>
         </array>
         <key>PayloadDescription</key>
-        <string> دروستکردنی : ابراھیم قادر مصطفی </string>
+        <string>Supas bo da</string>
         <key>PayloadDisplayName</key>
-        <string>Ibrahim IPhone </string>
+        <string>Supas bo</string>
         <key>PayloadIdentifier</key>
         <string>f7533bad-e225-4cb7-a94b-a8c5907c5f05</string>
         <key>PayloadOrganization</key>
